@@ -1,0 +1,49 @@
+.cabecalho{
+    background-image:url("imagens/banner.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    width:369px;
+    height: 546px;
+    margin-top:0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    text-align: center;
+}
+.cabecalhopaginas{
+    background-image:url("imagens/foto1.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    width:369px;
+    height: 191px;
+    margin-top:0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+text-align: right;
+}
+body{
+    text-align: center;
+    margin: 0;
+    background-image:url("imagens/fundo.png");
+}
+.rodape{
+    text-align: center;
+    margin: 0;
+    background-image: url("imagens/rodape.png");
+    width:369px;
+    height: 99px;
+}
+.elenco{
+    column-count: 2;
+    margin-right: 19px;
+    margin-left: 19px;
+    margin-top: 0px;
+}
+.sinopse{
+    font-size: 18px;
+    text-align: justify;
+    width: 300;
+}
